@@ -1,10 +1,10 @@
 import Navbar from "./components/Navbar"
 import Hero from "./components/Hero"
-import Destinations from "./components/Navbar"
-import Packages from "./components/Navbar"
-import Testimonials from "./components/Navbar"
-import Contact from "./components/Navbar"
-import Footer from "./components/Navbar"
+import Destinations from "./components/Destinations"
+import Packages from "./components/Packages"
+import Testimonials from "./components/Testimonials"
+import Contact from "./components/Contact"
+import Footer from "./components/Footer"
 
 function App() {
  
